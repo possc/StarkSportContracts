@@ -1,6 +1,6 @@
 %lang starknet
 
-// @title JediSwap Pair
+// @title StarkSportSwap Pair
 // @author Mesh Finance
 // @license MIT
 // @notice Low level pair contract
