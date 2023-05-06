@@ -1,7 +1,6 @@
 %lang starknet
 
 // @title StarkSportSwap Pair
-// @author Mesh Finance
 // @license MIT
 // @notice Low level pair contract
 // @dev Based on the Uniswap V2 pair
