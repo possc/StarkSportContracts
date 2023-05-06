@@ -1,7 +1,6 @@
 %lang starknet
 
-// @title JediSwap V2 Factory
-// @author Mesh Finance
+// @title StarkSportSwap V2 Factory
 // @license MIT
 // @notice Factory to create and register new pairs
 
