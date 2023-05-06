@@ -1,6 +1,6 @@
 %lang starknet
 
-// @title JediSwap V2 Router Proxy
+// @title StarkSportSwap V2 Router Proxy
 // @author Mesh Finance
 // @license MIT
 // @notice Upgradeable proxy for Router.cairo

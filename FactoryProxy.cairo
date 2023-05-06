@@ -1,6 +1,6 @@
 %lang starknet
 
-// @title JediSwap V2 Factory Proxy
+// @title StarkSportSwap V2 Factory Proxy
 // @author Mesh Finance
 // @license MIT
 // @notice Upgradeable proxy for Factory.cairo

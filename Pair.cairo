@@ -67,8 +67,8 @@ namespace IFactory {
 }
 
 @contract_interface
-namespace IJediSwapCallee {
-    func jediswap_call(
+namespace IStarkSportSwapCallee {
+    func starksportswap_call(
         sender: felt, amount0Out: Uint256, amount1Out: Uint256, data_len: felt, data: felt*
     ) {
     }
@@ -629,7 +629,7 @@ func swap{syscall_ptr: felt*, pedersen_ptr: HashBuiltin*, range_check_ptr}(
 
     let data_len_greater_than_zero = is_le(1, data_len);
     if (data_len_greater_than_zero == 1) {
-        IJediSwapCallee.jediswap_call(
+        IStarkSportSwapCallee.starksportswap_call(
             contract_address=to,
             sender=caller_address,
             amount0Out=amount0Out,

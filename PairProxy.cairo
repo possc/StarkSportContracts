@@ -1,7 +1,6 @@
 %lang starknet
 
-// @title JediSwap V2 Pair Proxy
-// @author Mesh Finance
+// @title StarkSportSwap V2 Pair Proxy
 // @license MIT
 // @notice Upgradeable proxy for Pair.cairo
 
