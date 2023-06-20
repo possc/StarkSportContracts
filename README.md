@@ -1,1 +1,1 @@
-# StarkSportContracts
+# SSContracts
